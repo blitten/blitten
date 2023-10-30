@@ -1,10 +1,12 @@
 ## Hello! I’m Pablo
 
 I’m an avid problem solver, and I work as a software engineer at Nationale Nederlanden. As such, I like to analyse issues, challenges and other difficulties, and convert them into understandable, actionable items.
+
 Are you stuck? Do you have a problem in front of you, that’s making your life difficult? I’m always happy to talk with you, bounce back some ideas, and help you.
 
 ### How to reach me
 Are we already colleagues? Then you can send me a message on Teams.
+
 When in doubt, you can always reach me at my personal inbox: pablo.carriqueo [at] gmail.com
 
 ### Preferred communication style
@@ -16,7 +18,7 @@ If you’re ever in doubt on how to express yourself, you can follow these **wri
 What’s the topic that you want to discuss? You can open the conversation with “Hey, remember we discussed [topic name]?” or “About [topic name]…”, so I understand what we’re talking about.
 
 #### Talk using proper nouns, not implicit
-As in, avoid using implicit words like “it”, “that”, “they”, “them”. What’s it? What’s that? Who are they? Use proper names, so I can understand what exactly are we discussing.
+As in, avoid using implicit words like “it”, “that”, “they”, “them”. Instead, ask yourself: What’s "it"? What’s "that"? Who are "they"? Use proper names, so we understand precisely what are we talking about.
 
 #### Be as specific as possible
 What is that you require of me? In which timeframe? Do you foresee any difficulties that I should take into account?
