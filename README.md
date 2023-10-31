@@ -21,9 +21,9 @@ What is that you require of me? In which timeframe? Do you foresee any difficult
 ### About surprise calls…
 Avoid them like the plague. If you’re thinking “it’s going to be faster if I call you”, remember: it’s going to be faster **only for you**.
 
-Since my work is based on thinking, there’s such a thing as “cost of interruption“, and believe me, it’s high. Or don’t just believe me, and search the web for “cost of interrupting an engineer”. You’ll see figures around 30min to just get back to where you were before being interrupted. The problem is: what this figure doesn’t tell you is that we also operate until tight schedules, so it’s not guaranteed that after that period of time, I’ll still have time to do what I was trying to do.
+Since my work is based on thinking, there’s such a thing as “cost of interruption“, and believe me, it’s high. Or don’t just believe me, and search the web for “cost of interrupting an engineer”. You’ll see figures around 30min to just get back to where you were before being interrupted. What this figure doesn’t tell you is that we also operate until tight schedules, so it’s not guaranteed that after that period of time, I’ll still have time to do what I was trying to do.
 
-Maybe I have a meeting after that, then another meeting, then omg I’m starving! I need something to eat, then another meeting! You see where I’m going? That interruption, can be minutes (much more minutes than the call) only in the best scenario; but it’s very likely that that interruption’s cost will be hours, sometimes even the day! Just because we didn’t plan around it.
+Maybe I have a meeting after that, then another meeting, then omg I’m starving! I need something to eat, then another meeting! You see where I’m going? That interruption, can be minutes (much more minutes than the call) only in the best scenario; but it’s very likely that that interruption’s cost will be hours, sometimes even the day! When we could have avoided this issue, by scheduling that call.
 
 ### Scheduled video calls
 If you really need a call, think how much time do you need: 15 minutes, 30 minutes? And ask me when can I take a call of such duration. I’ll work around my schedule and give you my next free slot, promise.
