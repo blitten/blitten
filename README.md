@@ -4,11 +4,6 @@ I’m an avid problem solver, and I work as a software engineer at Nationale Ned
 
 Are you stuck? Do you have a problem in front of you, that’s making your life difficult? I’m always happy to talk with you, bounce back some ideas, and help you.
 
-### How to reach me
-Are we already colleagues? Then you can send me a message on Teams.
-
-When in doubt, you can always reach me at my personal inbox: pablo.carriqueo [at] gmail.com
-
 ### Preferred communication style
 Written! Always written!
 
@@ -45,6 +40,11 @@ For written communication, I try to get back within the same or following workin
 For video calls, follow the guidelines under the “scheduled video calls” section. Avoid calling me by surprise.
 
 For meeting in person, follow the advice under “scheduled video calls”, for meetings longer than 30 minutes, and say that you want to meet in person. Be clear about why do you think we should meet in person, where in the country (Netherlands) do you intend us to meet, and for how long. If you have a strong case for meeting in person I’ll definitely accommodate, but know that I need to plan my day (and week) around it.
+
+### How to reach me
+Are we already colleagues? Then you can send me a message on Teams.
+
+When in doubt, you can always reach me at my personal inbox: pablo.carriqueo [at] gmail.com
 
 ### Final words
 If you made it here, congratulations! You are very good at reading.
